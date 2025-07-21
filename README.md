@@ -31,7 +31,7 @@ pip install psutil
 
 <h2>⚙️ Kullanım</h2>
 
-<pre><code>python monitor.py</code></pre>
+<pre><code>python treckir.py</code></pre>
 
 > `treckir.py` dosyasının içindeki `target_script` değişkenini izlemek istediğiniz Python scripti ile değiştirin:
 
