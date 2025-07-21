@@ -22,7 +22,7 @@
 <h2>🚀 Kurulum</h2>
 
 <pre>
-git clone [https://github.com/kullanici-adin/python-process-monitor.git](https://github.com/omerfaruk-shp/PyResourceMonitor/)
+git clone https://github.com/omerfaruk-shp/PyResourceMonitor/
 cd PyResourceMonitor
 pip install psutil
 </pre>
